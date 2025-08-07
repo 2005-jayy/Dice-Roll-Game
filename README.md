@@ -23,3 +23,4 @@ This is a basic dice game project I built while learning JavaScript DOM manipula
 - HTML
 - CSS
 - JavaScript (Vanilla)
+LINK: https://2005-jayy.github.io/Dice-Roll-Game/
